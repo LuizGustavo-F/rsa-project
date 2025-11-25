@@ -7,7 +7,7 @@ Este repositório contém uma implementação completa e didática do algoritmo 
 
 ---
 
-📋 Tabela de Conteúdos
+##📋 Tabela de Conteúdos
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -180,3 +180,4 @@ $$
 ---
 
 > **Aviso:** Este projeto é puramente acadêmico e não deve ser utilizado para proteger dados sensíveis em produção, pois utiliza primos pequenos para fins de demonstração.
+

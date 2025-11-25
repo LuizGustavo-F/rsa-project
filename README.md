@@ -10,13 +10,14 @@ Este repositório contém uma implementação completa e didática do algoritmo 
 ## 📋 Tabela de Conteúdos
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Pré-requisitos e Instalação](#pré-requisitos-e-instalação)
-- [Como Executar](#como-executar)
-- [Exemplo de Uso](#exemplo-de-uso)
-- [Fundamentação Teórica](#fundamentação-teórica)
-- [Autores](#autores)
+- [Funcionalidades](#-funcionalidades)
+- [Estrutura de Arquivos](#-estrutura-de-arquivos)
+- [Pré-requisitos e Instalação](#-pré-requisitos-e-instalação)
+- [Como Executar](#-como-executar)
+- [Exemplo de Uso](#-exemplo-de-uso)
+- [Fundamentação Teórica](#-fundamentação-teórica)
+- [Autores](#-autores)
+
  
 
 ---
@@ -180,5 +181,6 @@ $$
 ---
 
 > **Aviso:** Este projeto é puramente acadêmico e não deve ser utilizado para proteger dados sensíveis em produção, pois utiliza primos pequenos para fins de demonstração.
+
 
 

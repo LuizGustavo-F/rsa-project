@@ -176,11 +176,14 @@ $$
 
 ## 👥 Autores
 
-- **Luiz G. F. Carvalho**  
+- **Luiz G. F. Carvalho**
+- - **Libia Canhete**  
+
 
 ---
 
 > **Aviso:** Este projeto é puramente acadêmico e não deve ser utilizado para proteger dados sensíveis em produção, pois utiliza primos pequenos para fins de demonstração.
+
 
 
 

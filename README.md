@@ -177,12 +177,13 @@ $$
 ## 👥 Autores
 
 - **Luiz G. F. Carvalho**
-- - **Maria Fernanda Cavalcante**  
+- **Maria Fernanda Cavalcante**  
 
 
 ---
 
 > **Aviso:** Este projeto é puramente acadêmico e não deve ser utilizado para proteger dados sensíveis em produção, pois utiliza primos pequenos para fins de demonstração.
+
 
 
 
